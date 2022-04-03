@@ -1,7 +1,7 @@
 # Binary-Search-Tree-Project
 Bu bir www.patika.dev çalışmasıdır.
 
-**1) [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]  dizisinin Binary-Search-Tree aşamalarını yazınız... ( Root=7 )**
+**1) [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]  dizisinin Binary-Search-Tree aşamalarını yazınız.. ( Root=7 )**
             
           
               7
